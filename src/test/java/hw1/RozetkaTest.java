@@ -25,6 +25,8 @@ public class RozetkaTest {
         driver = new FirefoxDriver();
         driver.get("https://rozetka.com.ua");
         PageFactory.initElements(driver, this);
+
+        // YY
     }
 
     @After
