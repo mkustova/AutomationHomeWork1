@@ -1,4 +1,4 @@
-package hw1;
+package hw1.RozetkaOpenCategoryTest;
 
 import org.junit.After;
 import org.junit.Assert;
